@@ -16,3 +16,8 @@ y sorporte para varias células diferentes simultaneas.
 ## Controles ⚡
 - Click derecho, coloca una célula.
 - Click izquierdo, manten presionado y dibuja varias célula.
+## Librerias Utilizadas
+- Pygame
+- PygameTextInput
+- Ramdon
+- Numpy
