@@ -2,16 +2,12 @@
 
 Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierde creando proyectos variados y compartiendolos con el mundo.
 
-
-
 # Proyectos Finalizados 👇
-## Juego de la vida Conway <sub> Primer semestre</sub>
-
+## Juego de la vida Conway <sub>- Primer semestre, Fundamentos de Programación</sub> 
 ![image](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/54f22e25-d8de-49c1-b66a-17ba48cf84c7)
 
 >***🏆 Votado como el mejor proyecto de la clase.***
 
-### Descripccion 📝
 La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
 y sorporte para varias células diferentes simultaneas. Usando el lenguaje python🐍
 
@@ -25,6 +21,3 @@ y sorporte para varias células diferentes simultaneas. Usando el lenguaje pytho
 - *Reiniciar*, reinicia las generaciones a 0.
 - *Cel*, cambia el tipo de célula que se coloca con click.
 - 
-### Controles ⚡
-- Click derecho, coloca una célula.
-- Click izquierdo, manten presionado y dibuja varias célula.
