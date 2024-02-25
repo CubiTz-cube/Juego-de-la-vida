@@ -1,9 +1,15 @@
-# Juego de la vida Conway - **Python**🐍
+<a>
+    <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
+</a>
+
+# Juego de la vida Conway 
 La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
-y sorporte para varias células diferentes simultaneas.
+y sorporte para varias células diferentes simultaneas. Usando el lenguaje python🐍.
+
+Creado como proyecto final de la materia *Fundamentos de Programacion* en el primer semestre.
 
 ![image](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/54f22e25-d8de-49c1-b66a-17ba48cf84c7)
-
+>***🏆 Votado como el mejor proyecto de la clase.***
 ## Caracteristicas ⭐
 - Modo *automatico* o *manual* para pasar generaciones.
 - FPS del juego.
@@ -16,7 +22,7 @@ y sorporte para varias células diferentes simultaneas.
 ## Controles ⚡
 - Click derecho, coloca una célula.
 - Click izquierdo, manten presionado y dibuja varias célula.
-## Librerias Utilizadas
+## Librerias Utilizadas 📚
 - Pygame
 - PygameTextInput
 - Ramdon
