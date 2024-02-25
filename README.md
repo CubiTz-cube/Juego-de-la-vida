@@ -1,11 +1,19 @@
 ![Logotipo](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc)
 
+Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierde creando proyectos variados y compartiendolos con el mundo.
+
+
+
 # Proyectos Finalizados 👇
-## Juego de la vida Conway - **Python**🐍
-La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
-y sorporte para varias células diferentes simultaneas.
+## Juego de la vida Conway <sub> Primer semestre</sub>
 
 ![image](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/54f22e25-d8de-49c1-b66a-17ba48cf84c7)
+
+>***🏆 Votado como el mejor proyecto de la clase.***
+
+### Descripccion 📝
+La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
+y sorporte para varias células diferentes simultaneas. Usando el lenguaje python🐍
 
 ### Caracteristicas ⭐
 - Modo *automatico* o *manual* para pasar generaciones.
@@ -16,6 +24,7 @@ y sorporte para varias células diferentes simultaneas.
 - *Play* y *pausa*, (el boton de play en modo automatico pasa generaciones una en una).
 - *Reiniciar*, reinicia las generaciones a 0.
 - *Cel*, cambia el tipo de célula que se coloca con click.
+- 
 ### Controles ⚡
 - Click derecho, coloca una célula.
 - Click izquierdo, manten presionado y dibuja varias célula.
