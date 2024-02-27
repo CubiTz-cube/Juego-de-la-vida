@@ -1,6 +1,6 @@
 ![Logotipo](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc)
 
-Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierde creando proyectos variados y compartiendolos con el mundo.
+Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierten creando proyectos variados y compartiéndolos con el mundo.
 
 # Proyectos Finalizados 👇
 ## Juego de la vida Conway <sub>- Primer semestre, Fundamentos de Programación</sub> 
