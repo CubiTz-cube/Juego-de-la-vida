@@ -21,4 +21,3 @@ y sorporte para varias células diferentes simultaneas.
 - *Play* y *pausa*, (el boton de play en modo automatico pasa generaciones una en una).
 - *Reiniciar*, reinicia las generaciones a 0.
 - *Cel*, cambia el tipo de célula que se coloca con click.
-- 
