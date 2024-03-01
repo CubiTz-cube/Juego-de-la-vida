@@ -5,7 +5,7 @@ Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierten c
 # Proyectos Finalizados 👇
 ## ![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=f8b90c&labelColor=5268bd) [Juego de la vida Conway](https://github.com/DanielCarrenoMar/CubiTz/tree/main/Juego%20de%20la%20vida) <sub>- Primer semestre - Fundamentos de Programación</sub>  
 
-![image](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/54f22e25-d8de-49c1-b66a-17ba48cf84c7)
+![GameOfLife](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
 
 >***🏆 Votado como el mejor proyecto de la clase.***
 
