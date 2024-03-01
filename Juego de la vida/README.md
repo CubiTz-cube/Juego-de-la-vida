@@ -2,13 +2,13 @@
     <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
 </a>
 
-# Juego de la vida Conway 
+# ![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=f8b90c&labelColor=5268bd) Juego de la vida Conway 
 La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
-y sorporte para varias células diferentes simultaneas. Usando el lenguaje python🐍.
+y sorporte para varias células diferentes simultaneas.
 
 Creado como proyecto final de la materia *Fundamentos de Programacion* en el primer semestre.
 
-![image](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/54f22e25-d8de-49c1-b66a-17ba48cf84c7)
+![GameOfLife-min](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
 >***🏆 Votado como el mejor proyecto de la clase.***
 ## Caracteristicas ⭐
 - Modo *automatico* o *manual* para pasar generaciones.
