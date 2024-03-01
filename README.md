@@ -3,13 +3,14 @@
 Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierten creando proyectos variados y compartiéndolos con el mundo.
 
 # Proyectos Finalizados 👇
-## Juego de la vida Conway <sub>- Primer semestre, Fundamentos de Programación</sub> 
+## ![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=f8b90c&labelColor=5268bd) [Juego de la vida Conway](https://github.com/DanielCarrenoMar/CubiTz/tree/main/Juego%20de%20la%20vida) <sub>- Primer semestre - Fundamentos de Programación</sub>  
+
 ![image](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/54f22e25-d8de-49c1-b66a-17ba48cf84c7)
 
 >***🏆 Votado como el mejor proyecto de la clase.***
 
 La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
-y sorporte para varias células diferentes simultaneas. Usando el lenguaje python🐍
+y sorporte para varias células diferentes simultaneas.
 
 ### Caracteristicas ⭐
 - Modo *automatico* o *manual* para pasar generaciones.
