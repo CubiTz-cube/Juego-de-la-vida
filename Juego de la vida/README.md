@@ -8,7 +8,7 @@ y sorporte para varias células diferentes simultaneas.
 
 Creado como proyecto final de la materia *Fundamentos de Programacion* en el primer semestre.
 
-![GameOfLife-min](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
+![GameOfLife](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
 >***🏆 Votado como el mejor proyecto de la clase.***
 ## Caracteristicas ⭐
 - Modo *automatico* o *manual* para pasar generaciones.
