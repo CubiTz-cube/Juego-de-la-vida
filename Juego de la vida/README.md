@@ -2,7 +2,7 @@
     <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
 </a>
 
-# ![Python](https://img.shields.io/badge/Python-gray?style=flat-square&logo=python&logoColor=f8b90c&labelColor=5268bd) Juego de la vida Conway 
+# ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Juego de la vida Conway 
 La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
 y sorporte para varias células diferentes simultaneas.
 
