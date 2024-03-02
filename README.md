@@ -9,15 +9,16 @@ Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierten c
 
 >***🏆 Votado como el mejor proyecto de la clase.***
 
-La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacion de tablero 
-y sorporte para varias células diferentes simultaneas.
+La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacián de tablero 
+y soporte para varias células diferentes simultáneas.
 
-### Caracteristicas ⭐
+### Características ⭐
 - Modo *automático* o *manual* para pasar generaciones.
 - FPS del juego.
 - Cuadro rojo para *regresar* al menú.
 - Flechas < y > para *retroceder* y *avanzar* generaciones.
-- *Guardar* y *Cargar*, presione el boton y escriba con que nombre se desea guardar o cual se cargara.
-- *Play* y *Pausa*, (el boton de play en modo automatico pasa generaciones una en una)
+- Botón *Guardar*, presiónelo y escriba con que nombre se desea guardar.
+- Botón *Cargar*, presiónelo  y escriba que nombre se desea cargar.
+- Botones *play* y *pausa*, para iniciar y detener las generaciones (el botón play en modo automático pasará generaciones una a una)
 - *Reiniciar*, reinicia las generaciones a 0.
-- *Cel*, cambia el tipo de célula que se coloca con click.
+- El botón *cel*, cambia el tipo de célula que se coloca al hacer click.
