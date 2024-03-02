@@ -13,11 +13,11 @@ La base creada por Conway expandida con un sistema de guardado, pausa, sonido, p
 y sorporte para varias células diferentes simultaneas.
 
 ### Caracteristicas ⭐
-- Modo *automatico* o *manual* para pasar generaciones.
+- Modo *automático* o *manual* para pasar generaciones.
 - FPS del juego.
-- Cuadro rojo para *regresar* al menu.
+- Cuadro rojo para *regresar* al menú.
 - Flechas < y > para *retroceder* y *avanzar* generaciones.
-- *Guardar* y *cargar*, presione el boton y escriba con que nombre se desea guardar o cual se cargara.
-- *Play* y *pausa*, (el boton de play en modo automatico pasa generaciones una en una).
+- *Guardar* y *Cargar*, presione el boton y escriba con que nombre se desea guardar o cual se cargara.
+- *Play* y *Pausa*, (el boton de play en modo automatico pasa generaciones una en una)
 - *Reiniciar*, reinicia las generaciones a 0.
 - *Cel*, cambia el tipo de célula que se coloca con click.
