@@ -1,18 +1,16 @@
-![Logotipo](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc)
+<a>
+    <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/f673494d-f016-4eb2-bbd1-7abf1c196fbc" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
+</a>
 
-Un grupo de estudiantes de la [UCAB](https://www.ucab.edu.ve) que se divierten creando proyectos variados y compartiéndolos con el mundo.
-
-# Proyectos Finalizados 👇
-## [<sub>![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</sub>  Juego de la vida Conway](https://github.com/DanielCarrenoMar/CubiTz/tree/main/Juego%20de%20la%20vida) <sub>- Primer semestre - Fundamentos de Programación</sub>  
-
-![GameOfLife](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
-
->***🏆 Votado como el mejor proyecto de la clase.***
-
-La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalizacián de tablero 
+# ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Juego de la vida Conway 
+La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalización de tablero 
 y soporte para varias células diferentes simultáneas.
 
-### Características ⭐
+Creado como proyecto final de la materia *Fundamentos de Programación* en el primer semestre.
+
+![GameOfLife](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
+>***🏆 Votado como el mejor proyecto de la clase.***
+## Características ⭐
 - Modo *automático* o *manual* para pasar generaciones.
 - FPS del juego.
 - Cuadro rojo para *regresar* al menú.
@@ -22,3 +20,11 @@ y soporte para varias células diferentes simultáneas.
 - Botones *play* y *pausa*, para iniciar y detener las generaciones (el botón play en modo automático pasará generaciones una a una)
 - *Reiniciar*, reinicia las generaciones a 0.
 - El botón *cel*, cambia el tipo de célula que se coloca al hacer click.
+## Controles ⚡
+- Click derecho, coloca una célula.
+- Click izquierdo, manten presionado y dibuja varias célula.
+## Librerías Utilizadas 📚
+- Pygame
+- PygameTextInput
+- Ramdon
+- Numpy
