@@ -1,5 +1,5 @@
 <a>
-    <img src="https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/c8ff78f5-51e9-4f2b-9d5e-5663b88d2081" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
+    <img src="https://github.com/CubiTz-cube/Juego-de-la-vida/assets/144462396/f4fda149-fd6a-4add-87db-b429fc97121c" alt="CubiTz logo" title="CubiTz" align="right" height="60" />
 </a>
 
 # ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) Juego de la vida Conway 
@@ -8,7 +8,7 @@ y soporte para varias células diferentes simultáneas.
 
 Creado como proyecto final de la materia *Fundamentos de Programación* en el primer semestre.
 
-![GameOfLife](https://github.com/DanielCarrenoMar/CubiTz/assets/144462396/d3d43696-5f71-489a-ae78-abe7225cdea9)
+![GameOfLife](https://github.com/CubiTz-cube/Juego-de-la-vida/assets/144462396/b513481d-ff7a-41f2-8690-4b7d7cdf1819)
 >***🏆 Votado como el mejor proyecto de la clase.***
 ## Características ⭐
 - Modo *automático* o *manual* para pasar generaciones.
