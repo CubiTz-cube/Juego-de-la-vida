@@ -6,7 +6,7 @@
 La base creada por Conway expandida con un sistema de guardado, pausa, sonido, personalización de tablero 
 y soporte para varias células diferentes simultáneas.
 
-Creado como proyecto final de la materia *Fundamentos de Programación* en el primer semestre.
+Creado como proyecto final de la materia *Fundamentos de Programación* en el primer semestre de la [UCAB](https://www.ucab.edu.ve/).
 
 ![GameOfLife](https://github.com/CubiTz-cube/Juego-de-la-vida/assets/144462396/b513481d-ff7a-41f2-8690-4b7d7cdf1819)
 >***🏆 Votado como el mejor proyecto de la clase.***
