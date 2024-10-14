@@ -8,7 +8,7 @@ y soporte para varias células diferentes simultáneas.
 
 Creado como proyecto final de la materia *Fundamentos de Programación* en el primer semestre de la [UCAB](https://www.ucab.edu.ve/).
 
-![GameOfLife](https://github.com/CubiTz-cube/Juego-de-la-vida/assets/144462396/b513481d-ff7a-41f2-8690-4b7d7cdf1819)
+![GameOfLife](https://github.com/user-attachments/assets/cc62818a-8079-4dac-b5be-01160eb2c5ae)
 >***🏆 Votado como el mejor proyecto de la clase.***
 ## Características ⭐
 - Modo *automático* o *manual* para pasar generaciones.
@@ -28,3 +28,7 @@ Creado como proyecto final de la materia *Fundamentos de Programación* en el pr
 - PygameTextInput
 - Ramdon
 - Numpy
+
+## Más imagenes
+![GameOfLife2](https://github.com/user-attachments/assets/8dfb0abc-4ab6-4a03-ad58-e77f7cc6f522)
+![GameOfLife3](https://github.com/user-attachments/assets/ff81b2d9-856e-4e01-a5e1-3b4cfbb96de0)
